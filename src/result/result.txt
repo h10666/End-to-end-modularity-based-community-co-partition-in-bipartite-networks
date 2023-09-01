@@ -1,0 +1,52 @@
+citeseer	epoch:0	modularity:0.8873	NMI: 0.1201	micro: 0.0436	macro: 0.0244 
+citeseer	epoch:1	modularity:0.8627	NMI: 0.1116	micro: 0.0703	macro: 0.0376 
+citeseer	epoch:2	modularity:0.8648	NMI: 0.0915	micro: 0.0703	macro: 0.0388 
+citeseer	epoch:3	modularity:0.8654	NMI: 0.1259	micro: 0.0819	macro: 0.0438 
+citeseer	epoch:4	modularity:0.8678	NMI: 0.126	micro: 0.049	macro: 0.0268 
+pubmed	epoch:0	modularity:0.8186	NMI: 0.1905	micro: 0.0121	macro: 0.0036 
+pubmed	epoch:1	modularity:0.8093	NMI: 0.1933	micro: 0.1297	macro: 0.0374 
+pubmed	epoch:2	modularity:0.8108	NMI: 0.1802	micro: 0.0727	macro: 0.0264 
+pubmed	epoch:3	modularity:0.8165	NMI: 0.1816	micro: 0.0524	macro: 0.0153 
+pubmed	epoch:4	modularity:0.8197	NMI: 0.2008	micro: 0.1173	macro: 0.0342 
+cora	epoch:0	modularity:0.8107	NMI: 0.1643	micro: 0.0466	macro: 0.027 
+cora	epoch:1	modularity:0.8269	NMI: 0.1976	micro: 0.0695	macro: 0.0362 
+cora	epoch:2	modularity:0.8311	NMI: 0.1904	micro: 0.0714	macro: 0.041 
+cora	epoch:3	modularity:0.8186	NMI: 0.1807	micro: 0.0888	macro: 0.0529 
+cora	epoch:4	modularity:0.8247	NMI: 0.1915	micro: 0.0925	macro: 0.0533 
+CD	epoch:0	modularity:0.2648
+CD	epoch:1	modularity:0.2655
+CD	epoch:2	modularity:0.2723
+CD	epoch:3	modularity:0.2738
+CD	epoch:4	modularity:0.2722
+CG	epoch:0	modularity:0.3597
+CG	epoch:1	modularity:0.3611
+CG	epoch:2	modularity:0.3638
+CG	epoch:3	modularity:0.3629
+CG	epoch:4	modularity:0.3623
+CS	epoch:0	modularity:0.5363
+CS	epoch:1	modularity:0.5386
+CS	epoch:2	modularity:0.5361
+CS	epoch:3	modularity:0.5349
+CS	epoch:4	modularity:0.5389
+GD	epoch:0	modularity:0.3195
+GD	epoch:1	modularity:0.2999
+GD	epoch:2	modularity:0.3027
+GD	epoch:3	modularity:0.3044
+GD	epoch:4	modularity:0.285
+SD	epoch:0	modularity:0.362
+SD	epoch:1	modularity:0.379
+SD	epoch:2	modularity:0.3723
+SD	epoch:3	modularity:0.3755
+SD	epoch:4	modularity:0.3722
+SG	epoch:0	modularity:0.4631
+SG	epoch:1	modularity:0.4677
+SG	epoch:2	modularity:0.4687
+SG	epoch:3	modularity:0.4637
+SG	epoch:4	modularity:0.4747
+wiki	epoch:0	modularity:0.671	NMI: 0.3456	micro: 0.0342	macro: 0.0244
+wiki	epoch:1	modularity:0.6789	NMI: 0.3599	micro: 0.0216	macro: 0.0171 
+wiki	epoch:2	modularity:0.6756	NMI: 0.3653	micro: 0.0704	macro: 0.0547 
+wiki	epoch:3	modularity:0.6812	NMI: 0.3357	micro: 0.0699	macro: 0.0501 
+wiki	epoch:1	modularity:0.6801	NMI: 0.3666	micro: 0.0272	macro: 0.0238
+
+CS	epoch:0	modularity:0.5338

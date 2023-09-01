@@ -1,0 +1,5 @@
+cora	epoch:0	modularity:0.8347	NMI: 0.2139	micro: 0.0528	macro: 0.0265 
+cora	epoch:1	modularity:0.8185	NMI: 0.217	micro: 0.0528	macro: 0.0304 
+cora	epoch:2	modularity:0.8131	NMI: 0.1962	micro: 0.0962	macro: 0.0569 
+cora	epoch:3	modularity:0.8331	NMI: 0.1996	micro: 0.0608	macro: 0.0332 
+cora	epoch:4	modularity:0.8132	NMI: 0.2026	micro: 0.0757	macro: 0.0416 

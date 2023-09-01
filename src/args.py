@@ -1,0 +1,12 @@
+dataset_list = ['citeseer']
+# u_init_attr_dim = 1000
+# v_init_attr_dim = 1000
+inputLayer_dim = 1024
+gcn_hid_dim = 256
+gcn_hid_dim2 = 128
+gcn_out_dim = 64
+epochs = 500
+lr = 1e-3
+number_of_clusters = [6]
+dropout_rate = 0
+collapse_regularization = 1

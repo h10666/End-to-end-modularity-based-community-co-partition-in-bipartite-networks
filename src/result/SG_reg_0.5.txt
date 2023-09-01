@@ -1,0 +1,5 @@
+SG	epoch:0	modularity:0.4603
+SG	epoch:1	modularity:0.4436
+SG	epoch:2	modularity:0.4616
+SG	epoch:3	modularity:0.4656
+SG	epoch:4	modularity:0.4595
