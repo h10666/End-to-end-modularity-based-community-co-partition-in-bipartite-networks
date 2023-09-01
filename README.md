@@ -17,3 +17,5 @@ the efficacy of the proposed method.
 by Yang et al. to generate our own unlabeled bipartite networks for community co-partition. PubMed is an online database of research articles on life sciences and biomedical topics. 
 * Labeled Datasets:The first dataset is Citeseer. It contains 3,312 scientific papers as nodes with 6 class labels, and 4,732 citationsas edges among these papers. The second dataset is Cora. This dataset contains 2,708 machine learning papers with 7 labels, and 5,429 citations.  The third citation dataset PubMed (with labels) 
 * Large-scale Datasets：  DBLP dataset is a heterogeneous network with three types of nodes, including author, venue and phrases. OGBN-arXiv dataset is a citation network of all the computer science arXiv papers index by MAG
+
+完整代码见 https://pan.baidu.com/s/1wM-dP6xAe3KVfXyKBaud7g?pwd=c12v
